@@ -23,9 +23,12 @@
   * VIDEO: [15+ Android Tips and Tricks](https://www.youtube.com/watch?v=aYV0ZPvPaCM) 22 mins
   * [GCF Android Basics](https://edu.gcfglobal.org/en/androidbasics/)
   * YouTube search: [“android basics”](https://www.youtube.com/results?search_query=android+basics)
-  * ⭐[Download F-Droid](https://f-droid.org/F-Droid.apk) (Android only) for a lot of free, lightweight software.
-  * ⭐Get **NewPipe** [from F-Droid](https://f-droid.org/en/packages/org.schabi.newpipe/) or from the [developer’s site](https://newpipe.net/) to watch YouTube ad-free!
-  * [https://www.zedge.net/ringtones-and-wallpapers](http://zedge.net) is good for ringtones (Android only!)
+  * ⭐ [Download F-Droid](https://f-droid.org/F-Droid.apk) (Android only) for a lot of free, lightweight software.
+  * ⭐ Get **NewPipe** [from F-Droid](https://f-droid.org/en/packages/org.schabi.newpipe/) or from the [developer’s site](https://newpipe.net/) to watch YouTube ad-free!
+  * **More advanced on F-Droid**
+      * Download **Neo Store** on F-Droid (or, alternatively, add the [IzzyOnDroid](https://apt.izzysoft.de/fdroid/) repo to F-Droid.)
+      * On NeoStore (or IzzyOnDroid), search for *Musify* for music and *YouTube AdAway* as an alternative to NewPipe.
+  * [https://www.zedge.net/ringtones-and-wallpapers](http://zedge.net) is good for ringtones, but beware the misleading links and ads.
 ## iPhone
   * [Apple’s iPhone User Guide](https://support.apple.com/guide/iphone/welcome/ios)
   * VIDEO: [iPhone 13 Guide](https://www.youtube.com/watch?v=lEKfxCeBJP0) 52 mins
