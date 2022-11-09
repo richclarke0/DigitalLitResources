@@ -28,7 +28,7 @@
   * **More advanced on F-Droid**
       * Download **Neo Store** on F-Droid (or, alternatively, add the [IzzyOnDroid](https://apt.izzysoft.de/fdroid/) repo to F-Droid.)
       * On NeoStore (or IzzyOnDroid), search for *Musify* for music and *YouTube AdAway* as an alternative to NewPipe.
-  * [zedge](http://zedge.net](https://www.zedge.net/ringtones-and-wallpapers) is good for ringtones, but beware the misleading links and ads.
+  * [zedge](https://www.zedge.net/ringtones-and-wallpapers) is good for ringtones, but beware the misleading links and ads.
 ## iPhone
   * [Apple’s iPhone User Guide](https://support.apple.com/guide/iphone/welcome/ios)
   * VIDEO: [iPhone 13 Guide](https://www.youtube.com/watch?v=lEKfxCeBJP0) 52 mins
