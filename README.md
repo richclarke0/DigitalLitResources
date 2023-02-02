@@ -1,6 +1,6 @@
 # Digital Lit 🔥 
 
-
+😎 Hot new item: Go to [blinq.me](https://blinq.me/) to set up and easily share your contact file (with all your info and photo) via a scannabe QR code or link!
 
 * [Getting started with Zoom’s phone app](https://www.youtube.com/watch?v=sOJkfflN8O4) video 10min
 * [GCFGlobal.org](https://edu.gcfglobal.org/en/topics/) offers more than 300 topics, including more than 6,000 lessons, more than 2,000 videos, and more than 50 interactives and games, completely free. Learn computers, phones, software and more.
@@ -26,7 +26,7 @@
   * ⭐⭐⭐ Android F-Droid installation and app installation videos: ⭐⭐⭐
       * ⭐ [Start with this video](https://drive.google.com/file/d/1A0tEUQvFvqmbw_Ha5BrGJtG69ScWqfX5/view?usp=share_link) of the search, download and install process for F-Droid and subsequent installation of ad-free YouTube frontend player **NewPipe**. You can also download NewPipe from [the developer’s site](https://newpipe.net/) and skip the installation of F-Droid if NewPipe is all you want.
       * ⭐ [Here is a video of the install process for ViMusic from F-Droid.](https://drive.google.com/file/d/1AKR-QFg94Z03dK0NQo7eBlwWgbt-Zrr4/view?usp=share_link) ViMusic is a great little app that streams music ad-free from Youtube music. It's a great free Spotify alternative.
-      * ⭐ [Here is a video fo the install process for Spotube from F-Droid.](https://drive.google.com/file/d/1AJBzPx_q4y1pg1Fih1PJAVafkulJs9gU/view?usp=share_link) Spotube is a cool app that works with Spotify to sync playlists, but actually streams music from Youtube music. This app effectively works *exactly* like Spotify premium for free, but there is a bit of a learning curve to set it up properly. I recommend you read about how Spotube setup works [here at the developer's blog](https://spotube.netlify.app/blog/getting-started-with-spotube) if you want to do it correctly.There are also Spotube apps for different platforms (Mac, Windows, Linux) available here at the [developer's site](https://spotube.netlify.app/).
+      * ⭐ [Here is a video fo the install process for Spotube from F-Droid.](https://drive.google.com/file/d/1AJBzPx_q4y1pg1Fih1PJAVafkulJs9gU/view?usp=share_link) Spotube is a cool app that works with Spotify to sync playlists, but actually streams music from Youtube music. This app effectively works *exactly* like Spotify premium for free, but there is a bit of a learning curve to set it up properly. I recommend you read about how Spotube setup works [here at the developer's blog](https://spotube.netlify.app/blog/getting-started-with-spotube) if you want to do it correctly. There are also Spotube apps for different platforms (Mac, Windows, Linux) available here at the [developer's site](https://spotube.netlify.app/).
   * **More advanced on F-Droid**
       * Download **Neo Store** on F-Droid (or, alternatively, add the [IzzyOnDroid](https://apt.izzysoft.de/fdroid/) repo to F-Droid.)
       * On NeoStore (or IzzyOnDroid), search for *Musify* for music and *YouTube AdAway* as an alternative to NewPipe.
