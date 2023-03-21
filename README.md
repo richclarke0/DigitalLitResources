@@ -11,6 +11,7 @@
 * [reddit.com](https://reddit.com) - The biggest, best message board on the internet. Communities for basically anything. If you create an account and want to post, always read the posting guidelines before you do..
 * [reddit.com/r/scams Common Scams Master Post](https://www.reddit.com/r/Scams/comments/n00o17/rscams_common_scam_master_post/) - An excellent resource with a comprehensive list of the most common scams. Definitely worth reading to be aware of all the scams out there. It’s also worth browsing the main board on [reddit.com/r/scams](https://reddit.com/r/scams) to see the newest scams.
 * [Snopes](www.snopes.com) - Fact Checking. Use this before you post or repost anything on Facebook.
+* [Facebook Privacy Settings Tuneup](https://www.allthingssecured.com/tutorials/facebook-privacy-settings/)
 * _Special Mention:_ ⭐[TED: Ideas Worth Spreading](https://www.ted.com/) - Inspiring videos about _everything_.
     * Recommended: 
         * [Most popular TED Talks of all time](https://www.ted.com/playlists/171/the_most_popular_talks_of_all) (playlist)
