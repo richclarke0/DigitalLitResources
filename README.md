@@ -1,7 +1,5 @@
 # Digital Lit 🔥 
 
-😎 Hot new item: Go to [blinq.me](https://blinq.me/) to set up and easily share your contact file (with all your info and photo) via a scannabe QR code or link!
-
 * [Getting started with Zoom’s phone app](https://www.youtube.com/watch?v=sOJkfflN8O4) video 10min
 * [GCFGlobal.org](https://edu.gcfglobal.org/en/topics/) offers more than 300 topics, including more than 6,000 lessons, more than 2,000 videos, and more than 50 interactives and games, completely free. Learn computers, phones, software and more.
 * [FreeLearningList.org](https://freelearninglist.org/) offers the best free edu-things on the internet, ranked in order of amazingness, and neatly categorized. Includes YouTube channels, Podcasts, eBooks, Courses, ...
@@ -32,6 +30,7 @@
       * On NeoStore (or IzzyOnDroid), search for *Musify* for music and *YouTube AdAway* as an alternative to NewPipe.
   * [zedge](https://www.zedge.net/ringtones-and-wallpapers) is good for ringtones, but beware the misleading links and ads.
   * [wallhaven.cc](https://wallhaven.cc/) is great for wallpapers. Excellent content with no misleading ads.
+  * If you want to speed up your Android phone, you can actually reduce the animation times in the Developer menu. [Click here](https://www.tomsguide.com/how-to/how-to-speed-up-your-android-phone-or-tablet)
 ## iPhone
   * [Apple’s iPhone User Guide](https://support.apple.com/guide/iphone/welcome/ios)
   * VIDEO: [iPhone 13 Guide](https://www.youtube.com/watch?v=lEKfxCeBJP0) 52 mins
