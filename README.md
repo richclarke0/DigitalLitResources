@@ -35,7 +35,7 @@
   * [Apple’s iPhone User Guide](https://support.apple.com/guide/iphone/welcome/ios)
   * VIDEO: [iPhone 13 Guide](https://www.youtube.com/watch?v=lEKfxCeBJP0) 52 mins
   * YouTube search: [“iphone basics”](https://www.youtube.com/results?search_query=iphone+basics)
-  * [GCF iPhone Basics](https://edu.gcfglobal.org/en/iphonebasics/) \
+  * [GCF iPhone Basics](https://edu.gcfglobal.org/en/iphonebasics/)
 
 ## Other Cool Stuff
   * [Free-mp3-download.net](https://free-mp3-download.net/) to download Mp3 music for free.
