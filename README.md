@@ -18,8 +18,6 @@
         * [Most popular TED Talks of all time](https://www.ted.com/playlists/171/the_most_popular_talks_of_all) (playlist)
         * [8 Secrets to Success](https://www.ted.com/talks/richard_st_john_8_secrets_of_success?referrer=playlist-short_talks_to_watch_during_yo&autoplay=true) 3min
 ## Great sites to find good deals on devices
-* The [/r/iphonedeals](https://www.reddit.com/r/iphonedeals/) reddit board has some awesome deals on iPhones.
-* The [/r/androiddeals](https://www.reddit.com/r/androiddeals/) reddit board has some awesome deals on Android devices.
 * [Backmarket](https://www.backmarket.com/en-us) has amazing deals on lots of refurbs/used devices. I got a 15.6" MacBook Pro with 16gb of RAM for $825 there.
 
 ## Android
