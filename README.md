@@ -31,8 +31,8 @@
       * ⭐ [Here is a video of the install process for ViMusic from F-Droid.](https://drive.google.com/file/d/1AKR-QFg94Z03dK0NQo7eBlwWgbt-Zrr4/view?usp=share_link) ViMusic is a great little app that streams music ad-free from Youtube music. It's a great free Spotify alternative.
       * ⭐ [Here is a video fo the install process for Spotube from F-Droid.](https://drive.google.com/file/d/1AJBzPx_q4y1pg1Fih1PJAVafkulJs9gU/view?usp=share_link) Spotube is a cool app that works with Spotify to sync playlists, but actually streams music from Youtube music. This app effectively works *exactly* like Spotify premium for free, but there is a bit of a learning curve to set it up properly. I recommend you read about how Spotube setup works [here at the developer's blog](https://spotube.netlify.app/blog/getting-started-with-spotube) if you want to do it correctly. There are also Spotube apps for different platforms (Mac, Windows, Linux) available here at the [developer's site](https://spotube.netlify.app/).
   * **More advanced on F-Droid**
-      * Download **Neo Store** on F-Droid (or, alternatively, add the [IzzyOnDroid](https://apt.izzysoft.de/fdroid/) repo to F-Droid.)
-      * On NeoStore (or IzzyOnDroid), search for *Musify* for music and *YouTube AdAway* as an alternative to NewPipe.
+      * Download **Droid-ify** on F-Droid (or, alternatively, add the [IzzyOnDroid](https://apt.izzysoft.de/fdroid/) repo to F-Droid.)
+      * On Droid-ify (or IzzyOnDroid), search for *Musify* for music and *YouTube AdAway* as an alternative to NewPipe.
   * [zedge](https://www.zedge.net/ringtones-and-wallpapers) is good for ringtones, but beware the misleading links and ads.
   * [wallhaven.cc](https://wallhaven.cc/) is great for wallpapers. Excellent content with no misleading ads.
   * If you want to speed up your Android phone, you can actually reduce the animation times in the Developer menu. [Click here](https://www.tomsguide.com/how-to/how-to-speed-up-your-android-phone-or-tablet)
@@ -43,4 +43,4 @@
   * [GCF iPhone Basics](https://edu.gcfglobal.org/en/iphonebasics/)
 
 ## Other Cool Stuff
-  * [Free-mp3-download.net](https://free-mp3-download.net/) to download Mp3 music for free.
+  * [tinywow](www.tinywow.com) is a pretty cool guy and doesn't afraid of anything.
