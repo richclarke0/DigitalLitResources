@@ -1,5 +1,7 @@
 # Digital Lit 🔥 
 
+* [Backmarket](www.backmarket.com) has amazing deals on refurbished phones and other electronics.
+* [GSMarena](www.gsmarena.com) has always been my go-to place when researching new phones. An amazing informational resource.
 * [Getting started with Zoom’s phone app](https://www.youtube.com/watch?v=sOJkfflN8O4) video 10min
 * [GCFGlobal.org](https://edu.gcfglobal.org/en/topics/) offers more than 300 topics, including more than 6,000 lessons, more than 2,000 videos, and more than 50 interactives and games, completely free. Learn computers, phones, software and more.
 * [FreeLearningList.org](https://freelearninglist.org/) offers the best free edu-things on the internet, ranked in order of amazingness, and neatly categorized. Includes YouTube channels, Podcasts, eBooks, Courses, ...
